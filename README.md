@@ -1,1 +1,1 @@
-# ClimateMain 클래스로 실행 후 "도" "시" "동" 순으로 자신의 도시 입력 후에 그 날의 기온과 옷차림 우산의 유무를 알 수 있다.
+# Climate, Dresscode, need for an umbrella
