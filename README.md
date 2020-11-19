@@ -1,4 +1,4 @@
 # Climate_Check
-Climate
-Dresscode
+Climate,
+Dresscode,
 need for an umbrella
